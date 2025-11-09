@@ -86,6 +86,5 @@ nav > ul > li > a:hover, nav > ul > li > a:active {
      font-family:'Courier New', Courier, monospace;
     margin-left: auto;
     color: hsl(18, 71%, 27%);
-;
     border-style: hidden;
  }
